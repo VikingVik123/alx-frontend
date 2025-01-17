@@ -1,0 +1,1 @@
+This is where i start going 2ru the frontend specialization 
