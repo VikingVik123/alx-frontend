@@ -23,7 +23,7 @@
     --section-header-align: center;
     --section-tagline-transform: uppercase;
     --section-title-margin: 0;
-    --secrtion-title-color: --color-black;
+    --section-title-color: var(--color-black);
 }
 
 
@@ -67,7 +67,7 @@ a {
     font-weight: var(--font-weight-bold);
     font-size: var(--font-size-xx-large);
     margin: var(--section-title-margin);
-    color: var(--secrtion-title-color);
+    color: var(--secetion-title-color);
 }
 
 .section-tagline {
